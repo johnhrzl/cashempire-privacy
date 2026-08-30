@@ -1,6 +1,6 @@
-# Datenschutzerklärung — Cash Empire: Idle Bank Tycoon
+# Datenschutzerklärung — Cash Empire: Money Printer
 
-Die Datenschutzerklärung der Android-App **Cash Empire: Idle Bank Tycoon**.
+Die Datenschutzerklärung der Android-App **Cash Empire: Money Printer**.
 
 - 🇩🇪 [Deutsch](https://johnhrzl.github.io/cashempire-privacy/)
 - 🇬🇧 [English](https://johnhrzl.github.io/cashempire-privacy/en.html)
